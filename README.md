@@ -2,6 +2,8 @@
 
 This repository contains materials used in an introductory level R course at university of Eastern Finland. For now, all the material here is written in Finnish.
 
+This work is dual-licensed with MIT-license and Creative Commons By Attribution 4.0 license. You can choose between one of them if you use this work.
+
 # Tämä materiaali on vahnentunut
 
 Tämä versio materiaalista on vanhentunut, eikä tätä repositorya päivitetä aktiivisesti. Itä-Suomen yliopiston R-kieli -kurssin lukuvuodelle 2021-22 päivitetty luentomoniste löytyy osoitteesta http://www.tinyurl.com/rkurssi ja sen lähdekoodi osoitteesta https://github.com/jukop/r_intro.
